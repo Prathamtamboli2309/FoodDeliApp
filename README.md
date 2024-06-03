@@ -4,6 +4,9 @@
 
 Food Delivery App is a modern web application designed to facilitate food delivery services. With an intuitive and user-friendly interface, users can easily browse restaurants, place orders, make payments, and track their deliveries in real-time. Leveraging the MERN stack (MongoDB, Express.js, React, and Node.js), Food Delivery App offers robust performance and scalability for managing food orders efficiently. The project integrates Stripe for secure online payments and provides a comprehensive admin dashboard for managing orders, restaurants, and menus.
 
+## Live Demo
+- https://mypetpuja.netlify.app/
+
 ## Features
 
 - 🍕 **Restaurant Listings**: Users can browse, search, and view restaurant listings.
