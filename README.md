@@ -97,6 +97,21 @@ Ensure you have the following installed on your machine:
 4. **💳 Make Payments**: Enter payment details securely using Stripe.
 5. **🚚 Track Deliveries**: Track the status of your orders in real-time on the live map.
 
+
+## ScreenShots
+![Screenshot (57)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/8c372cd1-cc9b-4afc-97c0-2147ee3f339a)
+![Screenshot (58)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/a340455a-2920-42bb-b4c1-f714657cd95a)
+![Screenshot (59)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/39050394-da24-4f8a-9889-857928c46392)
+![Screenshot (60)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/9781a85c-696a-45ca-a8a8-104457b47735)
+![Screenshot (61)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/9bb92aa9-b452-4154-845c-f908cb8a94ae)
+![Screenshot (62)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/c77c7f5e-1601-40e9-8d8e-c44a1717b549)
+![Screenshot (63)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/2cba211c-5cc4-4c40-8bef-011a2aa319bd)
+![Screenshot (64)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/32c78b86-8ecc-4c15-80b7-c8dd84c33c13)
+![Screenshot (65)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/ab03bb59-9ec7-4bef-94ce-ed93715cd7a5)
+![Screenshot (66)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/87453862-11ed-4c5a-ab63-99973f500eb0)
+![Screenshot (67)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/feee749d-31df-4b44-8d58-dd888fcc875e)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
